@@ -25,7 +25,7 @@
                    <li><a class="li" href="signUp.php">Sign Up</a></li>
                    <li><a class="li" href="home.php">Home</a></li>
                    <li><a class="li" href="profile.php">Profile Page</a></li>
-                  <li><span><a href="" class="logout">Log Out</a></span></li>
+                  <li><span><a href="logout.php" class="logout">Log Out</a></span></li>
                 
             </nav>
         </div>
